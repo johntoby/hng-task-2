@@ -1,5 +1,5 @@
 # hng-task-2
-A simple python flask application that returns a random number between 1 and 100. Every time to open the application page, or refresh the page, it returns a different random number. 
+A simple python flask application that returns a random number between 1 and 100. Every time you open the application page, or refresh the page, it returns a different random number. 
 The application is written in python using the flask framework. 
 The Dockerfile has been prepared to dockerize the application using a distroless python container base image. 
 To run the application, run the following commands: 
